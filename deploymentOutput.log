@@ -1,0 +1,104 @@
+
+Compiling your contracts...
+===========================
+> Everything is up to date, there is nothing to compile.
+
+
+
+Starting migrations...
+======================
+> Network name:    'development'
+> Network id:      1337
+> Block gas limit: 6721975 (0x6691b7)
+
+
+1_initial_migration.js
+======================
+
+   Replacing 'Migrations'
+   ----------------------
+   > transaction hash:    0xd12df916503e906074412d1f2e6cfbd13b1eb868c19a38e53f902645b0e2ce32
+   > Blocks: 0            Seconds: 0
+   > contract address:    0x8c2eA0bf1564E6A352FD099D5Df719EB57a33e79
+   > block number:        32159
+   > block timestamp:     1663861037
+   > account:             0x90F8bf6A479f320ead074411a4B0e7944Ea8c9C1
+   > balance:             37.59285006
+   > gas used:            167410 (0x28df2)
+   > gas price:           100 gwei
+   > value sent:          0 ETH
+   > total cost:          0.016741 ETH
+
+
+   Replacing 'WETH9'
+   -----------------
+   > transaction hash:    0xc3c182a1e7dd329f6685aeeba1d425c1a8cd2ec87b2e29b9cc24dd1d0bbe57a9
+   > Blocks: 0            Seconds: 0
+   > contract address:    0xBE9D2E6cA9ECBfbaf6E4E045390702eD09770a3a
+   > block number:        32160
+   > block timestamp:     1663861040
+   > account:             0x90F8bf6A479f320ead074411a4B0e7944Ea8c9C1
+   > balance:             37.53281186
+   > gas used:            600382 (0x9293e)
+   > gas price:           100 gwei
+   > value sent:          0 ETH
+   > total cost:          0.0600382 ETH
+
+
+   Replacing 'PancakeRouter'
+   -------------------------
+   > transaction hash:    0x6f4efebc24cf65292ad5a404baa0a83aa322c1506c576f2b479e592bde692f69
+   > Blocks: 0            Seconds: 0
+   > contract address:    0x01C0353AB44748237ae88ba5baEd079cda1DACeC
+   > block number:        32161
+   > block timestamp:     1663861043
+   > account:             0x90F8bf6A479f320ead074411a4B0e7944Ea8c9C1
+   > balance:             37.05621606
+   > gas used:            4765958 (0x48b906)
+   > gas price:           100 gwei
+   > value sent:          0 ETH
+   > total cost:          0.4765958 ETH
+
+
+   Replacing 'PancakeRouter01'
+   ---------------------------
+   > transaction hash:    0x7a5de124c514bd0d80f31d83845bdf2d7e0672528f3667f2ec3499256b2a05c3
+   > Blocks: 0            Seconds: 0
+   > contract address:    0x33979F0fF8F671304AB4E737C9CD13C15Eee49Ce
+   > block number:        32162
+   > block timestamp:     1663861047
+   > account:             0x90F8bf6A479f320ead074411a4B0e7944Ea8c9C1
+   > balance:             36.69926766
+   > gas used:            3569484 (0x36774c)
+   > gas price:           100 gwei
+   > value sent:          0 ETH
+   > total cost:          0.3569484 ETH
+
+
+   Replacing 'PancakeMigrator'
+   ---------------------------
+   > transaction hash:    0xb573244fbf78352f8ffa592638aa68fdf2c4095cd83626cd7408c853c363eddc
+   > Blocks: 0            Seconds: 0
+   > contract address:    0x618c98aa47384a94604B0099C68BEd56F2b57266
+   > block number:        32163
+   > block timestamp:     1663861050
+   > account:             0x90F8bf6A479f320ead074411a4B0e7944Ea8c9C1
+   > balance:             36.63359456
+   > gas used:            656731 (0xa055b)
+   > gas price:           100 gwei
+   > value sent:          0 ETH
+   > total cost:          0.0656731 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:           0.9759965 ETH
+
+
+Summary
+=======
+> Total deployments:   5
+> Final cost:          0.9759965 ETH
+
+
